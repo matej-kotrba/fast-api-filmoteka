@@ -1,0 +1,4627 @@
+[
+   {
+      "id":1,
+      "title":"Vykoupení z věznice Shawshank",
+      "year":1994,
+      "runtime":142,
+      "rating":9.2,
+      "description":"Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+      "director":"Frank Darabont",
+      "actors":[
+         "Tim Robbins",
+         "Morgan Freeman"
+      ],
+      "url":"https://www.imdb.com/title/tt0111161/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":2,
+      "title":"Kmotr",
+      "year":1972,
+      "runtime":175,
+      "rating":9.2,
+      "description":"The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "director":"Francis Ford Coppola",
+      "actors":[
+         "Marlon Brando",
+         "Al Pacino"
+      ],
+      "url":"https://www.imdb.com/title/tt0068646/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":3,
+      "title":"Temný rytíř",
+      "year":2008,
+      "runtime":152,
+      "rating":9.0,
+      "description":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Christian Bale",
+         "Heath Ledger"
+      ],
+      "url":"https://www.imdb.com/title/tt0468569/",
+      "genres":[
+         "Action",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":4,
+      "title":"Kmotr II",
+      "year":1974,
+      "runtime":202,
+      "rating":9.0,
+      "description":"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "director":"Francis Ford Coppola",
+      "actors":[
+         "Al Pacino",
+         "Robert De Niro"
+      ],
+      "url":"https://www.imdb.com/title/tt0071562/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":5,
+      "title":"Dvanáct rozhněvaných mužů",
+      "year":1957,
+      "runtime":96,
+      "rating":9.0,
+      "description":"The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "director":"Sidney Lumet",
+      "actors":[
+         "Henry Fonda",
+         "Lee J. Cobb"
+      ],
+      "url":"https://www.imdb.com/title/tt0050083/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":6,
+      "title":"Schindlerův seznam",
+      "year":1993,
+      "runtime":195,
+      "rating":8.9,
+      "description":"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "director":"Steven Spielberg",
+      "actors":[
+         "Liam Neeson",
+         "Ralph Fiennes"
+      ],
+      "url":"https://www.imdb.com/title/tt0108052/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":7,
+      "title":"Pán prstenů: Návrat krále",
+      "year":2003,
+      "runtime":201,
+      "rating":8.9,
+      "description":"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "director":"Peter Jackson",
+      "actors":[
+         "Elijah Wood",
+         "Viggo Mortensen"
+      ],
+      "url":"https://www.imdb.com/title/tt0167260/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":8,
+      "title":"Pulp Fiction: Historky z podsvětí",
+      "year":1994,
+      "runtime":154,
+      "rating":8.8,
+      "description":"The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "director":"Quentin Tarantino",
+      "actors":[
+         "John Travolta",
+         "Uma Thurman"
+      ],
+      "url":"https://www.imdb.com/title/tt0110912/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":9,
+      "title":"Pán prstenů: Společenstvo prstenu",
+      "year":2001,
+      "runtime":178,
+      "rating":8.8,
+      "description":"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "director":"Peter Jackson",
+      "actors":[
+         "Elijah Wood",
+         "Ian McKellen"
+      ],
+      "url":"https://www.imdb.com/title/tt0120737/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":10,
+      "title":"Hodný, Zlý a Ošklivý",
+      "year":1966,
+      "runtime":161,
+      "rating":8.8,
+      "description":"A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "director":"Sergio Leone",
+      "actors":[
+         "Clint Eastwood",
+         "Eli Wallach"
+      ],
+      "url":"https://www.imdb.com/title/tt0060196/",
+      "genres":[
+         "Adventure",
+         "Western"
+      ]
+   },
+   {
+      "id":11,
+      "title":"Forrest Gump",
+      "year":1994,
+      "runtime":142,
+      "rating":8.8,
+      "description":"The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire ... Read all",
+      "director":"Robert Zemeckis",
+      "actors":[
+         "Tom Hanks",
+         "Robin Wright"
+      ],
+      "url":"https://www.imdb.com/title/tt0109830/",
+      "genres":[
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":12,
+      "title":"Klub rváčů",
+      "year":1999,
+      "runtime":139,
+      "rating":8.7,
+      "description":"An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "director":"David Fincher",
+      "actors":[
+         "Brad Pitt",
+         "Edward Norton"
+      ],
+      "url":"https://www.imdb.com/title/tt0137523/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":13,
+      "title":"Pán prstenů: Dvě věže",
+      "year":2002,
+      "runtime":179,
+      "rating":8.7,
+      "description":"While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "director":"Peter Jackson",
+      "actors":[
+         "Elijah Wood",
+         "Ian McKellen"
+      ],
+      "url":"https://www.imdb.com/title/tt0167261/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":14,
+      "title":"Počátek",
+      "year":2010,
+      "runtime":148,
+      "rating":8.7,
+      "description":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the pro... Read all",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Leonardo DiCaprio",
+         "Joseph Gordon-Levitt"
+      ],
+      "url":"https://www.imdb.com/title/tt1375666/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":15,
+      "title":"Star Wars V: Impérium vrací úder",
+      "year":1980,
+      "runtime":124,
+      "rating":8.7,
+      "description":"After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader ... Read all",
+      "director":"Irvin Kershner",
+      "actors":[
+         "Mark Hamill",
+         "Harrison Ford"
+      ],
+      "url":"https://www.imdb.com/title/tt0080684/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":16,
+      "title":"Matrix",
+      "year":1999,
+      "runtime":136,
+      "rating":8.7,
+      "description":"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "director":"Lana Wachowski",
+      "actors":[
+         "Keanu Reeves",
+         "Laurence Fishburne"
+      ],
+      "url":"https://www.imdb.com/title/tt0133093/",
+      "genres":[
+         "Action",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":17,
+      "title":"Gangsteři",
+      "year":1990,
+      "runtime":145,
+      "rating":8.7,
+      "description":"The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate... Read all",
+      "director":"Martin Scorsese",
+      "actors":[
+         "Robert De Niro",
+         "Ray Liotta"
+      ],
+      "url":"https://www.imdb.com/title/tt0099685/",
+      "genres":[
+         "Biography",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":18,
+      "title":"Přelet nad kukaččím hnízdem",
+      "year":1975,
+      "runtime":133,
+      "rating":8.6,
+      "description":"In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+      "director":"Milos Forman",
+      "actors":[
+         "Jack Nicholson",
+         "Louise Fletcher"
+      ],
+      "url":"https://www.imdb.com/title/tt0073486/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":19,
+      "title":"Sedm",
+      "year":1995,
+      "runtime":127,
+      "rating":8.6,
+      "description":"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "director":"David Fincher",
+      "actors":[
+         "Morgan Freeman",
+         "Brad Pitt"
+      ],
+      "url":"https://www.imdb.com/title/tt0114369/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":20,
+      "title":"Sedm samurajů",
+      "year":1954,
+      "runtime":207,
+      "rating":8.6,
+      "description":"Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+      "director":"Akira Kurosawa",
+      "actors":[
+         "Toshir\u00f4 Mifune",
+         "Takashi Shimura"
+      ],
+      "url":"https://www.imdb.com/title/tt0047478/",
+      "genres":[
+         "Action",
+         "Drama"
+      ]
+   },
+   {
+      "id":21,
+      "title":"Zivot je krásný",
+      "year":1946,
+      "runtime":130,
+      "rating":8.6,
+      "description":"An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+      "director":"Frank Capra",
+      "actors":[
+         "James Stewart",
+         "Donna Reed"
+      ],
+      "url":"https://www.imdb.com/title/tt0038650/",
+      "genres":[
+         "Drama",
+         "Family",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":22,
+      "title":"Mlčení jehňátek",
+      "year":1991,
+      "runtime":118,
+      "rating":8.6,
+      "description":"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "director":"Jonathan Demme",
+      "actors":[
+         "Jodie Foster",
+         "Anthony Hopkins"
+      ],
+      "url":"https://www.imdb.com/title/tt0102926/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":23,
+      "title":"Město bohů",
+      "year":2002,
+      "runtime":130,
+      "rating":8.6,
+      "description":"In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "director":"Fernando Meirelles",
+      "actors":[
+         "Alexandre Rodrigues",
+         "Leandro Firmino"
+      ],
+      "url":"https://www.imdb.com/title/tt0317248/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":24,
+      "title":"Zachraňte vojína Ryana",
+      "year":1998,
+      "runtime":169,
+      "rating":8.6,
+      "description":"Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "director":"Steven Spielberg",
+      "actors":[
+         "Tom Hanks",
+         "Matt Damon"
+      ],
+      "url":"https://www.imdb.com/title/tt0120815/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":25,
+      "title":"Interstellar",
+      "year":2014,
+      "runtime":169,
+      "rating":8.6,
+      "description":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Matthew McConaughey",
+         "Anne Hathaway"
+      ],
+      "url":"https://www.imdb.com/title/tt0816692/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":26,
+      "title":"Život je krásný",
+      "year":1997,
+      "runtime":116,
+      "rating":8.6,
+      "description":"When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp... Read all",
+      "director":"Roberto Benigni",
+      "actors":[
+         "Roberto Benigni",
+         "Nicoletta Braschi"
+      ],
+      "url":"https://www.imdb.com/title/tt0118799/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":27,
+      "title":"Zelená míle",
+      "year":1999,
+      "runtime":189,
+      "rating":8.6,
+      "description":"The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "director":"Frank Darabont",
+      "actors":[
+         "Tom Hanks",
+         "Michael Clarke Duncan"
+      ],
+      "url":"https://www.imdb.com/title/tt0120689/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":28,
+      "title":"Hvězdné války: Epizoda IV - Nová naděje",
+      "year":1977,
+      "runtime":121,
+      "rating":8.5,
+      "description":"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue ... Read all",
+      "director":"George Lucas",
+      "actors":[
+         "Mark Hamill",
+         "Harrison Ford"
+      ],
+      "url":"https://www.imdb.com/title/tt0076759/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":29,
+      "title":"Terminátor 2: Den zúčtování",
+      "year":1991,
+      "runtime":137,
+      "rating":8.5,
+      "description":"A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
+      "director":"James Cameron",
+      "actors":[
+         "Arnold Schwarzenegger",
+         "Linda Hamilton"
+      ],
+      "url":"https://www.imdb.com/title/tt0103064/",
+      "genres":[
+         "Action",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":30,
+      "title":"Návrat do budoucnosti",
+      "year":1985,
+      "runtime":116,
+      "rating":8.5,
+      "description":"Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "director":"Robert Zemeckis",
+      "actors":[
+         "Michael J. Fox",
+         "Christopher Lloyd"
+      ],
+      "url":"https://www.imdb.com/title/tt0088763/",
+      "genres":[
+         "Adventure",
+         "Comedy",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":31,
+      "title":"Cesta do fantazie",
+      "year":2001,
+      "runtime":125,
+      "rating":8.5,
+      "description":"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "director":"Hayao Miyazaki",
+      "actors":[
+         "Daveigh Chase",
+         "Suzanne Pleshette"
+      ],
+      "url":"https://www.imdb.com/title/tt0245429/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Family"
+      ]
+   },
+   {
+      "id":32,
+      "title":"Pianista",
+      "year":2002,
+      "runtime":150,
+      "rating":8.5,
+      "description":"A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+      "director":"Roman Polanski",
+      "actors":[
+         "Adrien Brody",
+         "Thomas Kretschmann"
+      ],
+      "url":"https://www.imdb.com/title/tt0253474/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "Music"
+      ]
+   },
+   {
+      "id":33,
+      "title":"Psycho",
+      "year":1960,
+      "runtime":109,
+      "rating":8.5,
+      "description":"A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+      "director":"Alfred Hitchcock",
+      "actors":[
+         "Anthony Perkins",
+         "Janet Leigh"
+      ],
+      "url":"https://www.imdb.com/title/tt0054215/",
+      "genres":[
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":34,
+      "title":"Parazit",
+      "year":2019,
+      "runtime":132,
+      "rating":8.5,
+      "description":"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "director":"Bong Joon Ho",
+      "actors":[
+         "Song Kang-ho",
+         "Lee Sun-kyun"
+      ],
+      "url":"https://www.imdb.com/title/tt6751668/",
+      "genres":[
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":35,
+      "title":"Léon",
+      "year":1994,
+      "runtime":110,
+      "rating":8.5,
+      "description":"12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin... Read all",
+      "director":"Luc Besson",
+      "actors":[
+         "Jean Reno",
+         "Gary Oldman"
+      ],
+      "url":"https://www.imdb.com/title/tt0110413/",
+      "genres":[
+         "Action",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":36,
+      "title":"The Lion King",
+      "year":1994,
+      "runtime":88,
+      "rating":8.5,
+      "description":"Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "director":"Roger Allers",
+      "actors":[
+         "Matthew Broderick",
+         "Jeremy Irons"
+      ],
+      "url":"https://www.imdb.com/title/tt0110357/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":37,
+      "title":"Gladiátor",
+      "year":2000,
+      "runtime":155,
+      "rating":8.5,
+      "description":"A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "director":"Ridley Scott",
+      "actors":[
+         "Russell Crowe",
+         "Joaquin Phoenix"
+      ],
+      "url":"https://www.imdb.com/title/tt0172495/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":38,
+      "title":"Kult hákového kříže",
+      "year":1998,
+      "runtime":119,
+      "rating":8.5,
+      "description":"A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+      "director":"Tony Kaye",
+      "actors":[
+         "Edward Norton",
+         "Edward Furlong"
+      ],
+      "url":"https://www.imdb.com/title/tt0120586/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":39,
+      "title":"Skrytá identita",
+      "year":2006,
+      "runtime":151,
+      "rating":8.5,
+      "description":"An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "director":"Martin Scorsese",
+      "actors":[
+         "Leonardo DiCaprio",
+         "Matt Damon"
+      ],
+      "url":"https://www.imdb.com/title/tt0407887/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":40,
+      "title":"Obvyklí podezřelí",
+      "year":1995,
+      "runtime":106,
+      "rating":8.5,
+      "description":"A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+      "director":"Bryan Singer",
+      "actors":[
+         "Kevin Spacey",
+         "Gabriel Byrne"
+      ],
+      "url":"https://www.imdb.com/title/tt0114814/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":41,
+      "title":"Dokonalý trik",
+      "year":2006,
+      "runtime":130,
+      "rating":8.5,
+      "description":"After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Christian Bale",
+         "Hugh Jackman"
+      ],
+      "url":"https://www.imdb.com/title/tt0482571/",
+      "genres":[
+         "Drama",
+         "Mystery",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":42,
+      "title":"Whiplash",
+      "year":2014,
+      "runtime":106,
+      "rating":8.5,
+      "description":"A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "director":"Damien Chazelle",
+      "actors":[
+         "Miles Teller",
+         "J.K. Simmons"
+      ],
+      "url":"https://www.imdb.com/title/tt2582802/",
+      "genres":[
+         "Drama",
+         "Music"
+      ]
+   },
+   {
+      "id":43,
+      "title":"Casablanca",
+      "year":1942,
+      "runtime":102,
+      "rating":8.5,
+      "description":"A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+      "director":"Michael Curtiz",
+      "actors":[
+         "Humphrey Bogart",
+         "Ingrid Bergman"
+      ],
+      "url":"https://www.imdb.com/title/tt0034583/",
+      "genres":[
+         "Drama",
+         "Romance",
+         "War"
+      ]
+   },
+   {
+      "id":44,
+      "title":"Hrob světlušek",
+      "year":1988,
+      "runtime":89,
+      "rating":8.5,
+      "description":"A young boy and his little sister struggle to survive in Japan during World War II.",
+      "director":"Isao Takahata",
+      "actors":[
+         "Tsutomu Tatsumi",
+         "Ayano Shiraishi"
+      ],
+      "url":"https://www.imdb.com/title/tt0095327/",
+      "genres":[
+         "Animation",
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":45,
+      "title":"Seppuku",
+      "year":1962,
+      "runtime":133,
+      "rating":8.5,
+      "description":"When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so ... Read all",
+      "director":"Masaki Kobayashi",
+      "actors":[
+         "Tatsuya Nakadai",
+         "Akira Ishihama"
+      ],
+      "url":"https://www.imdb.com/title/tt0056058/",
+      "genres":[
+         "Action",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":46,
+      "title":"Nedotknutelní",
+      "year":2011,
+      "runtime":112,
+      "rating":8.5,
+      "description":"After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+      "director":"Olivier Nakache",
+      "actors":[
+         "Fran\u00e7ois Cluzet",
+         "Omar Sy"
+      ],
+      "url":"https://www.imdb.com/title/tt1675434/",
+      "genres":[
+         "Biography",
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":47,
+      "title":"Moderní Doba",
+      "year":1936,
+      "runtime":87,
+      "rating":8.4,
+      "description":"The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+      "director":"Charles Chaplin",
+      "actors":[
+         "Charles Chaplin",
+         "Paulette Goddard"
+      ],
+      "url":"https://www.imdb.com/title/tt0027977/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":48,
+      "title":"Tenkrát na Západě",
+      "year":1968,
+      "runtime":165,
+      "rating":8.4,
+      "description":"A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+      "director":"Sergio Leone",
+      "actors":[
+         "Henry Fonda",
+         "Charles Bronson"
+      ],
+      "url":"https://www.imdb.com/title/tt0064116/",
+      "genres":[
+         "Western"
+      ]
+   },
+   {
+      "id":49,
+      "title":"Okno do dvora",
+      "year":1954,
+      "runtime":112,
+      "rating":8.4,
+      "description":"A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism o... Read all",
+      "director":"Alfred Hitchcock",
+      "actors":[
+         "James Stewart",
+         "Grace Kelly"
+      ],
+      "url":"https://www.imdb.com/title/tt0047396/",
+      "genres":[
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":50,
+      "title":"Bio Ráj",
+      "year":1988,
+      "runtime":155,
+      "rating":8.4,
+      "description":"A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+      "director":"Giuseppe Tornatore",
+      "actors":[
+         "Philippe Noiret",
+         "Enzo Cannavale"
+      ],
+      "url":"https://www.imdb.com/title/tt0095765/",
+      "genres":[
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":51,
+      "title":"Vetřelec",
+      "year":1979,
+      "runtime":117,
+      "rating":8.4,
+      "description":"The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+      "director":"Ridley Scott",
+      "actors":[
+         "Sigourney Weaver",
+         "Tom Skerritt"
+      ],
+      "url":"https://www.imdb.com/title/tt0078748/",
+      "genres":[
+         "Horror",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":52,
+      "title":"Světla velkoměsta",
+      "year":1931,
+      "runtime":87,
+      "rating":8.4,
+      "description":"With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+      "director":"Charles Chaplin",
+      "actors":[
+         "Charles Chaplin",
+         "Virginia Cherrill"
+      ],
+      "url":"https://www.imdb.com/title/tt0021749/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":53,
+      "title":"Apokalypsa",
+      "year":1979,
+      "runtime":147,
+      "rating":8.4,
+      "description":"A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+      "director":"Francis Ford Coppola",
+      "actors":[
+         "Martin Sheen",
+         "Marlon Brando"
+      ],
+      "url":"https://www.imdb.com/title/tt0078788/",
+      "genres":[
+         "Drama",
+         "Mystery",
+         "War"
+      ]
+   },
+   {
+      "id":54,
+      "title":"Memento",
+      "year":2000,
+      "runtime":113,
+      "rating":8.4,
+      "description":"A man with short-term memory loss attempts to track down his wife's murderer.",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Guy Pearce",
+         "Carrie-Anne Moss"
+      ],
+      "url":"https://www.imdb.com/title/tt0209144/",
+      "genres":[
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":55,
+      "title":"Nespoutaný Django",
+      "year":2012,
+      "runtime":165,
+      "rating":8.4,
+      "description":"With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+      "director":"Quentin Tarantino",
+      "actors":[
+         "Jamie Foxx",
+         "Christoph Waltz"
+      ],
+      "url":"https://www.imdb.com/title/tt1853728/",
+      "genres":[
+         "Drama",
+         "Western"
+      ]
+   },
+   {
+      "id":56,
+      "title":"Dobyvatelé ztracené archy",
+      "year":1981,
+      "runtime":115,
+      "rating":8.4,
+      "description":"Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.",
+      "director":"Steven Spielberg",
+      "actors":[
+         "Harrison Ford",
+         "Karen Allen"
+      ],
+      "url":"https://www.imdb.com/title/tt0082971/",
+      "genres":[
+         "Action",
+         "Adventure"
+      ]
+   },
+   {
+      "id":57,
+      "title":"Vall-I",
+      "year":2008,
+      "runtime":98,
+      "rating":8.4,
+      "description":"In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+      "director":"Andrew Stanton",
+      "actors":[
+         "Ben Burtt",
+         "Elissa Knight"
+      ],
+      "url":"https://www.imdb.com/title/tt0910970/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Family"
+      ]
+   },
+   {
+      "id":58,
+      "title":"Životy těch druhých",
+      "year":2006,
+      "runtime":137,
+      "rating":8.4,
+      "description":"In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+      "director":"Florian Henckel von Donnersmarck",
+      "actors":[
+         "Ulrich M\u00fche",
+         "Martina Gedeck"
+      ],
+      "url":"https://www.imdb.com/title/tt0405094/",
+      "genres":[
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":59,
+      "title":"Sunset Blvd.",
+      "year":1950,
+      "runtime":110,
+      "rating":8.4,
+      "description":"A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+      "director":"Billy Wilder",
+      "actors":[
+         "William Holden",
+         "Gloria Swanson"
+      ],
+      "url":"https://www.imdb.com/title/tt0043014/",
+      "genres":[
+         "Drama",
+         "Film-Noir"
+      ]
+   },
+   {
+      "id":60,
+      "title":"Stezky slávy",
+      "year":1957,
+      "runtime":88,
+      "rating":8.4,
+      "description":"After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+      "director":"Stanley Kubrick",
+      "actors":[
+         "Kirk Douglas",
+         "Ralph Meeker"
+      ],
+      "url":"https://www.imdb.com/title/tt0050825/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":61,
+      "title":"Osvícení",
+      "year":1980,
+      "runtime":146,
+      "rating":8.4,
+      "description":"A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "director":"Stanley Kubrick",
+      "actors":[
+         "Jack Nicholson",
+         "Shelley Duvall"
+      ],
+      "url":"https://www.imdb.com/title/tt0081505/",
+      "genres":[
+         "Drama",
+         "Horror"
+      ]
+   },
+   {
+      "id":62,
+      "title":"Diktátor",
+      "year":1940,
+      "runtime":125,
+      "rating":8.4,
+      "description":"Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+      "director":"Charles Chaplin",
+      "actors":[
+         "Charles Chaplin",
+         "Paulette Goddard"
+      ],
+      "url":"https://www.imdb.com/title/tt0032553/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":63,
+      "title":"Avengers: Infinity War",
+      "year":2018,
+      "runtime":149,
+      "rating":8.4,
+      "description":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "director":"Anthony Russo",
+      "actors":[
+         "Robert Downey Jr.",
+         "Chris Hemsworth"
+      ],
+      "url":"https://www.imdb.com/title/tt4154756/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":64,
+      "title":"Svědek obžaloby",
+      "year":1957,
+      "runtime":116,
+      "rating":8.4,
+      "description":"A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+      "director":"Billy Wilder",
+      "actors":[
+         "Tyrone Power",
+         "Marlene Dietrich"
+      ],
+      "url":"https://www.imdb.com/title/tt0051201/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":65,
+      "title":"Vetřelci",
+      "year":1986,
+      "runtime":137,
+      "rating":8.3,
+      "description":"Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen... Read all",
+      "director":"James Cameron",
+      "actors":[
+         "Sigourney Weaver",
+         "Michael Biehn"
+      ],
+      "url":"https://www.imdb.com/title/tt0090605/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":66,
+      "title":"Spider-Man: Paralelní světy",
+      "year":2018,
+      "runtime":117,
+      "rating":8.3,
+      "description":"Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "director":"Bob Persichetti",
+      "actors":[
+         "Shameik Moore",
+         "Jake Johnson"
+      ],
+      "url":"https://www.imdb.com/title/tt4633694/",
+      "genres":[
+         "Animation",
+         "Action",
+         "Adventure"
+      ]
+   },
+   {
+      "id":67,
+      "title":"Americká krása",
+      "year":1999,
+      "runtime":122,
+      "rating":8.3,
+      "description":"A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+      "director":"Sam Mendes",
+      "actors":[
+         "Kevin Spacey",
+         "Annette Bening"
+      ],
+      "url":"https://www.imdb.com/title/tt0169547/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":68,
+      "title":"Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu",
+      "year":1964,
+      "runtime":95,
+      "rating":8.3,
+      "description":"An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+      "director":"Stanley Kubrick",
+      "actors":[
+         "Peter Sellers",
+         "George C. Scott"
+      ],
+      "url":"https://www.imdb.com/title/tt0057012/",
+      "genres":[
+         "Comedy",
+         "War"
+      ]
+   },
+   {
+      "id":69,
+      "title":"Temný rytíř povstal",
+      "year":2012,
+      "runtime":164,
+      "rating":8.3,
+      "description":"Eight years after the Joker's reign of chaos, Batman is coerced out of exile with the assistance of the mysterious Selina Kyle in order to defend Gotham City from the vicious guerrilla terro... Read all",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Christian Bale",
+         "Tom Hardy"
+      ],
+      "url":"https://www.imdb.com/title/tt1345836/",
+      "genres":[
+         "Action",
+         "Drama"
+      ]
+   },
+   {
+      "id":70,
+      "title":"Old Boy",
+      "year":2003,
+      "runtime":120,
+      "rating":8.3,
+      "description":"After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+      "director":"Park Chan-wook",
+      "actors":[
+         "Choi Min-sik",
+         "Yoo Ji-tae"
+      ],
+      "url":"https://www.imdb.com/title/tt0364569/",
+      "genres":[
+         "Action",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":71,
+      "title":"Hanebný pancharti",
+      "year":2009,
+      "runtime":153,
+      "rating":8.3,
+      "description":"In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "director":"Quentin Tarantino",
+      "actors":[
+         "Brad Pitt",
+         "Diane Kruger"
+      ],
+      "url":"https://www.imdb.com/title/tt0361748/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":72,
+      "title":"Amadeus",
+      "year":1984,
+      "runtime":160,
+      "rating":8.3,
+      "description":"The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him... Read all",
+      "director":"Milos Forman",
+      "actors":[
+         "F. Murray Abraham",
+         "Tom Hulce"
+      ],
+      "url":"https://www.imdb.com/title/tt0086879/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "Music"
+      ]
+   },
+   {
+      "id":73,
+      "title":"Coco",
+      "year":2017,
+      "runtime":105,
+      "rating":8.3,
+      "description":"Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "director":"Lee Unkrich",
+      "actors":[
+         "Anthony Gonzalez",
+         "Gael Garc\u00eda Bernal"
+      ],
+      "url":"https://www.imdb.com/title/tt2380307/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":74,
+      "title":"Toy Story: Příběh hraček",
+      "year":1995,
+      "runtime":81,
+      "rating":8.3,
+      "description":"A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+      "director":"John Lasseter",
+      "actors":[
+         "Tom Hanks",
+         "Tim Allen"
+      ],
+      "url":"https://www.imdb.com/title/tt0114709/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":75,
+      "title":"Joker",
+      "year":2019,
+      "runtime":122,
+      "rating":8.3,
+      "description":"A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
+      "director":"Todd Phillips",
+      "actors":[
+         "Joaquin Phoenix",
+         "Robert De Niro"
+      ],
+      "url":"https://www.imdb.com/title/tt7286456/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":76,
+      "title":"Statečné srdce",
+      "year":1995,
+      "runtime":178,
+      "rating":8.3,
+      "description":"Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+      "director":"Mel Gibson",
+      "actors":[
+         "Mel Gibson",
+         "Sophie Marceau"
+      ],
+      "url":"https://www.imdb.com/title/tt0112573/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":77,
+      "title":"Ponorka",
+      "year":1981,
+      "runtime":149,
+      "rating":8.3,
+      "description":"A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+      "director":"Wolfgang Petersen",
+      "actors":[
+         "J\u00fcrgen Prochnow",
+         "Herbert Gr\u00f6nemeyer"
+      ],
+      "url":"https://www.imdb.com/title/tt0082096/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":78,
+      "title":"Avengers: Endgame",
+      "year":2019,
+      "runtime":181,
+      "rating":8.3,
+      "description":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' action... Read all",
+      "director":"Anthony Russo",
+      "actors":[
+         "Robert Downey Jr.",
+         "Chris Evans"
+      ],
+      "url":"https://www.imdb.com/title/tt4154796/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":79,
+      "title":"Princezna Mononoke",
+      "year":1997,
+      "runtime":134,
+      "rating":8.3,
+      "description":"On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, th... Read all",
+      "director":"Hayao Miyazaki",
+      "actors":[
+         "Y\u00f4ji Matsuda",
+         "Yuriko Ishida"
+      ],
+      "url":"https://www.imdb.com/title/tt0119698/",
+      "genres":[
+         "Animation",
+         "Action",
+         "Adventure"
+      ]
+   },
+   {
+      "id":80,
+      "title":"Tenkrát v Americe",
+      "year":1984,
+      "runtime":229,
+      "rating":8.3,
+      "description":"A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+      "director":"Sergio Leone",
+      "actors":[
+         "Robert De Niro",
+         "James Woods"
+      ],
+      "url":"https://www.imdb.com/title/tt0087843/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":81,
+      "title":"Dobrý Will Hunting",
+      "year":1997,
+      "runtime":126,
+      "rating":8.3,
+      "description":"Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+      "director":"Gus Van Sant",
+      "actors":[
+         "Robin Williams",
+         "Matt Damon"
+      ],
+      "url":"https://www.imdb.com/title/tt0119217/",
+      "genres":[
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":82,
+      "title":"Kimi no na wa.",
+      "year":2016,
+      "runtime":106,
+      "rating":8.3,
+      "description":"Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+      "director":"Makoto Shinkai",
+      "actors":[
+         "Ry\u00fbnosuke Kamiki",
+         "Mone Kamishiraishi"
+      ],
+      "url":"https://www.imdb.com/title/tt5311514/",
+      "genres":[
+         "Animation",
+         "Drama",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":83,
+      "title":"3 Idiots",
+      "year":2009,
+      "runtime":170,
+      "rating":8.3,
+      "description":"Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of t... Read all",
+      "director":"Rajkumar Hirani",
+      "actors":[
+         "Aamir Khan",
+         "Madhavan"
+      ],
+      "url":"https://www.imdb.com/title/tt1187043/",
+      "genres":[
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":84,
+      "title":"Zpívání v desti",
+      "year":1952,
+      "runtime":103,
+      "rating":8.3,
+      "description":"A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+      "director":"Stanley Donen",
+      "actors":[
+         "Gene Kelly",
+         "Donald O'Connor"
+      ],
+      "url":"https://www.imdb.com/title/tt0045152/",
+      "genres":[
+         "Comedy",
+         "Musical",
+         "Romance"
+      ]
+   },
+   {
+      "id":85,
+      "title":"Requiem za sen",
+      "year":2000,
+      "runtime":102,
+      "rating":8.3,
+      "description":"The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "director":"Darren Aronofsky",
+      "actors":[
+         "Ellen Burstyn",
+         "Jared Leto"
+      ],
+      "url":"https://www.imdb.com/title/tt0180093/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":86,
+      "title":"Toy Story 3: Příběh hraček",
+      "year":2010,
+      "runtime":103,
+      "rating":8.3,
+      "description":"The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned ... Read all",
+      "director":"Lee Unkrich",
+      "actors":[
+         "Tom Hanks",
+         "Tim Allen"
+      ],
+      "url":"https://www.imdb.com/title/tt0435761/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":87,
+      "title":"Nebe a peklo",
+      "year":1963,
+      "runtime":143,
+      "rating":8.3,
+      "description":"An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+      "director":"Akira Kurosawa",
+      "actors":[
+         "Toshir\u00f4 Mifune",
+         "Yutaka Sada"
+      ],
+      "url":"https://www.imdb.com/title/tt0057565/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":88,
+      "title":"Capharnaüm",
+      "year":2018,
+      "runtime":126,
+      "rating":8.3,
+      "description":"While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+      "director":"Nadine Labaki",
+      "actors":[
+         "Zain Al Rafeea",
+         "Yordanos Shiferaw"
+      ],
+      "url":"https://www.imdb.com/title/tt8267604/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":89,
+      "title":"Star Wars VI: Návrat Jediů",
+      "year":1983,
+      "runtime":131,
+      "rating":8.3,
+      "description":"After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark... Read all",
+      "director":"Richard Marquand",
+      "actors":[
+         "Mark Hamill",
+         "Harrison Ford"
+      ],
+      "url":"https://www.imdb.com/title/tt0086190/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":90,
+      "title":"Věčný svit neposkvrněné mysli",
+      "year":2004,
+      "runtime":108,
+      "rating":8.3,
+      "description":"When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+      "director":"Michel Gondry",
+      "actors":[
+         "Jim Carrey",
+         "Kate Winslet"
+      ],
+      "url":"https://www.imdb.com/title/tt0338013/",
+      "genres":[
+         "Drama",
+         "Romance",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":91,
+      "title":"2001: Vesmírná odysea",
+      "year":1968,
+      "runtime":149,
+      "rating":8.3,
+      "description":"After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 900... Read all",
+      "director":"Stanley Kubrick",
+      "actors":[
+         "Keir Dullea",
+         "Gary Lockwood"
+      ],
+      "url":"https://www.imdb.com/title/tt0062622/",
+      "genres":[
+         "Adventure",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":92,
+      "title":"Gauneři",
+      "year":1992,
+      "runtime":99,
+      "rating":8.3,
+      "description":"When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "director":"Quentin Tarantino",
+      "actors":[
+         "Harvey Keitel",
+         "Tim Roth"
+      ],
+      "url":"https://www.imdb.com/title/tt0105236/",
+      "genres":[
+         "Crime",
+         "Thriller"
+      ]
+   },
+   {
+      "id":93,
+      "title":"Jdi a dívej se",
+      "year":1985,
+      "runtime":142,
+      "rating":8.3,
+      "description":"After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+      "director":"Elem Klimov",
+      "actors":[
+         "Aleksey Kravchenko",
+         "Olga Mironova"
+      ],
+      "url":"https://www.imdb.com/title/tt0091251/",
+      "genres":[
+         "Drama",
+         "Thriller",
+         "War"
+      ]
+   },
+   {
+      "id":94,
+      "title":"Hon",
+      "year":2012,
+      "runtime":115,
+      "rating":8.3,
+      "description":"A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to... Read all",
+      "director":"Thomas Vinterberg",
+      "actors":[
+         "Mads Mikkelsen",
+         "Thomas Bo Larsen"
+      ],
+      "url":"https://www.imdb.com/title/tt2106476/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":95,
+      "title":"Občan Kane",
+      "year":1941,
+      "runtime":119,
+      "rating":8.3,
+      "description":"Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+      "director":"Orson Welles",
+      "actors":[
+         "Orson Welles",
+         "Joseph Cotten"
+      ],
+      "url":"https://www.imdb.com/title/tt0033467/",
+      "genres":[
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":96,
+      "title":"Vrah mezi námi",
+      "year":1931,
+      "runtime":117,
+      "rating":8.3,
+      "description":"When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+      "director":"Fritz Lang",
+      "actors":[
+         "Peter Lorre",
+         "Ellen Widmann"
+      ],
+      "url":"https://www.imdb.com/title/tt0022100/",
+      "genres":[
+         "Crime",
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":97,
+      "title":"Lawrence z Arábie",
+      "year":1962,
+      "runtime":218,
+      "rating":8.3,
+      "description":"The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "director":"David Lean",
+      "actors":[
+         "Peter O'Toole",
+         "Alec Guinness"
+      ],
+      "url":"https://www.imdb.com/title/tt0056172/",
+      "genres":[
+         "Adventure",
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":98,
+      "title":"Na sever severozápadní linkou",
+      "year":1959,
+      "runtime":136,
+      "rating":8.2,
+      "description":"A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+      "director":"Alfred Hitchcock",
+      "actors":[
+         "Cary Grant",
+         "Eva Marie Saint"
+      ],
+      "url":"https://www.imdb.com/title/tt0053125/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Mystery"
+      ]
+   },
+   {
+      "id":99,
+      "title":"Vertigo",
+      "year":1958,
+      "runtime":128,
+      "rating":8.2,
+      "description":"A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply dis... Read all",
+      "director":"Alfred Hitchcock",
+      "actors":[
+         "James Stewart",
+         "Kim Novak"
+      ],
+      "url":"https://www.imdb.com/title/tt0052357/",
+      "genres":[
+         "Mystery",
+         "Romance",
+         "Thriller"
+      ]
+   },
+   {
+      "id":100,
+      "title":"Amélie z Montmartru",
+      "year":2001,
+      "runtime":122,
+      "rating":8.2,
+      "description":"Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+      "director":"Jean-Pierre Jeunet",
+      "actors":[
+         "Audrey Tautou",
+         "Mathieu Kassovitz"
+      ],
+      "url":"https://www.imdb.com/title/tt0211915/",
+      "genres":[
+         "Comedy",
+         "Romance"
+      ]
+   },
+   {
+      "id":101,
+      "title":"Žít",
+      "year":1952,
+      "runtime":143,
+      "rating":8.2,
+      "description":"A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+      "director":"Akira Kurosawa",
+      "actors":[
+         "Takashi Shimura",
+         "Nobuo Kaneko"
+      ],
+      "url":"https://www.imdb.com/title/tt0044741/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":102,
+      "title":"Byt",
+      "year":1960,
+      "runtime":125,
+      "rating":8.2,
+      "description":"A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+      "director":"Billy Wilder",
+      "actors":[
+         "Jack Lemmon",
+         "Shirley MacLaine"
+      ],
+      "url":"https://www.imdb.com/title/tt0053604/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":103,
+      "title":"Mechanický pomeranč",
+      "year":1971,
+      "runtime":136,
+      "rating":8.2,
+      "description":"In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+      "director":"Stanley Kubrick",
+      "actors":[
+         "Malcolm McDowell",
+         "Patrick Magee"
+      ],
+      "url":"https://www.imdb.com/title/tt0066921/",
+      "genres":[
+         "Crime",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":104,
+      "title":"Top Gun: Maverick",
+      "year":2022,
+      "runtime":130,
+      "rating":8.2,
+      "description":"After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ... Read all",
+      "director":"Joseph Kosinski",
+      "actors":[
+         "Tom Cruise",
+         "Jennifer Connelly"
+      ],
+      "url":"https://www.imdb.com/title/tt1745960/",
+      "genres":[
+         "Action",
+         "Drama"
+      ]
+   },
+   {
+      "id":105,
+      "title":"Pojistka smrti",
+      "year":1944,
+      "runtime":107,
+      "rating":8.2,
+      "description":"A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigato... Read all",
+      "director":"Billy Wilder",
+      "actors":[
+         "Fred MacMurray",
+         "Barbara Stanwyck"
+      ],
+      "url":"https://www.imdb.com/title/tt0036775/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Film-Noir"
+      ]
+   },
+   {
+      "id":106,
+      "title":"Olověná vesta",
+      "year":1987,
+      "runtime":116,
+      "rating":8.2,
+      "description":"A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "director":"Stanley Kubrick",
+      "actors":[
+         "Matthew Modine",
+         "R. Lee Ermey"
+      ],
+      "url":"https://www.imdb.com/title/tt0093058/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":107,
+      "title":"Zjizvená tvár",
+      "year":1983,
+      "runtime":170,
+      "rating":8.2,
+      "description":"In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+      "director":"Brian De Palma",
+      "actors":[
+         "Al Pacino",
+         "Michelle Pfeiffer"
+      ],
+      "url":"https://www.imdb.com/title/tt0086250/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":108,
+      "title":"Hamilton",
+      "year":2020,
+      "runtime":160,
+      "rating":8.2,
+      "description":"The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the origi... Read all",
+      "director":"Thomas Kail",
+      "actors":[
+         "Lin-Manuel Miranda",
+         "Phillipa Soo"
+      ],
+      "url":"https://www.imdb.com/title/tt8503618/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":109,
+      "title":"Požáry",
+      "year":2010,
+      "runtime":131,
+      "rating":8.2,
+      "description":"Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+      "director":"Denis Villeneuve",
+      "actors":[
+         "Lubna Azabal",
+         "M\u00e9lissa D\u00e9sormeaux-Poulin"
+      ],
+      "url":"https://www.imdb.com/title/tt1255953/",
+      "genres":[
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":110,
+      "title":"Jako zabít ptáčka",
+      "year":1962,
+      "runtime":129,
+      "rating":8.2,
+      "description":"Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.",
+      "director":"Robert Mulligan",
+      "actors":[
+         "Gregory Peck",
+         "John Megna"
+      ],
+      "url":"https://www.imdb.com/title/tt0056592/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":111,
+      "title":"Podraz",
+      "year":1973,
+      "runtime":129,
+      "rating":8.2,
+      "description":"Two grifters team up to pull off the ultimate con.",
+      "director":"George Roy Hill",
+      "actors":[
+         "Paul Newman",
+         "Robert Redford"
+      ],
+      "url":"https://www.imdb.com/title/tt0070735/",
+      "genres":[
+         "Comedy",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":112,
+      "title":"Nelítostný souboj",
+      "year":1995,
+      "runtime":170,
+      "rating":8.2,
+      "description":"A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+      "director":"Michael Mann",
+      "actors":[
+         "Al Pacino",
+         "Robert De Niro"
+      ],
+      "url":"https://www.imdb.com/title/tt0113277/",
+      "genres":[
+         "Action",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":113,
+      "title":"Vzhůru do oblak",
+      "year":2009,
+      "runtime":96,
+      "rating":8.2,
+      "description":"78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+      "director":"Pete Docter",
+      "actors":[
+         "Edward Asner",
+         "Jordan Nagai"
+      ],
+      "url":"https://www.imdb.com/title/tt1049413/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":114,
+      "title":"Rozchod Nadera a Simin",
+      "year":2011,
+      "runtime":123,
+      "rating":8.2,
+      "description":"A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzhei... Read all",
+      "director":"Asghar Farhadi",
+      "actors":[
+         "Payman Maadi",
+         "Leila Hatami"
+      ],
+      "url":"https://www.imdb.com/title/tt1832382/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":115,
+      "title":"Taxikář",
+      "year":1976,
+      "runtime":114,
+      "rating":8.2,
+      "description":"A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+      "director":"Martin Scorsese",
+      "actors":[
+         "Robert De Niro",
+         "Jodie Foster"
+      ],
+      "url":"https://www.imdb.com/title/tt0075314/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":116,
+      "title":"Metropolis",
+      "year":1927,
+      "runtime":153,
+      "rating":8.2,
+      "description":"In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a... Read all",
+      "director":"Fritz Lang",
+      "actors":[
+         "Brigitte Helm",
+         "Alfred Abel"
+      ],
+      "url":"https://www.imdb.com/title/tt0017136/",
+      "genres":[
+         "Drama",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":117,
+      "title":"L. A.: Přísně tajné",
+      "year":1997,
+      "runtime":138,
+      "rating":8.2,
+      "description":"As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+      "director":"Curtis Hanson",
+      "actors":[
+         "Kevin Spacey",
+         "Russell Crowe"
+      ],
+      "url":"https://www.imdb.com/title/tt0119488/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":118,
+      "title":"Smrtonosná past",
+      "year":1988,
+      "runtime":132,
+      "rating":8.2,
+      "description":"A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "director":"John McTiernan",
+      "actors":[
+         "Bruce Willis",
+         "Alan Rickman"
+      ],
+      "url":"https://www.imdb.com/title/tt0095016/",
+      "genres":[
+         "Action",
+         "Thriller"
+      ]
+   },
+   {
+      "id":119,
+      "title":"Podfu(c)k",
+      "year":2000,
+      "runtime":104,
+      "rating":8.2,
+      "description":"Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "director":"Guy Ritchie",
+      "actors":[
+         "Jason Statham",
+         "Brad Pitt"
+      ],
+      "url":"https://www.imdb.com/title/tt0208092/",
+      "genres":[
+         "Comedy",
+         "Crime"
+      ]
+   },
+   {
+      "id":120,
+      "title":"Indiana Jones a poslední křížová výprava",
+      "year":1989,
+      "runtime":127,
+      "rating":8.2,
+      "description":"In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+      "director":"Steven Spielberg",
+      "actors":[
+         "Harrison Ford",
+         "Sean Connery"
+      ],
+      "url":"https://www.imdb.com/title/tt0097576/",
+      "genres":[
+         "Action",
+         "Adventure"
+      ]
+   },
+   {
+      "id":121,
+      "title":"Zloději kol",
+      "year":1948,
+      "runtime":89,
+      "rating":8.2,
+      "description":"In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+      "director":"Vittorio De Sica",
+      "actors":[
+         "Lamberto Maggiorani",
+         "Enzo Staiola"
+      ],
+      "url":"https://www.imdb.com/title/tt0040522/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":122,
+      "title":"Jako hvězdy na Zemi",
+      "year":2007,
+      "runtime":165,
+      "rating":8.2,
+      "description":"An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+      "director":"Aamir Khan",
+      "actors":[
+         "Darsheel Safary",
+         "Aamir Khan"
+      ],
+      "url":"https://www.imdb.com/title/tt0986264/",
+      "genres":[
+         "Drama",
+         "Family"
+      ]
+   },
+   {
+      "id":123,
+      "title":"1917",
+      "year":2019,
+      "runtime":119,
+      "rating":8.2,
+      "description":"April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from wa... Read all",
+      "director":"Sam Mendes",
+      "actors":[
+         "Dean-Charles Chapman",
+         "George MacKay"
+      ],
+      "url":"https://www.imdb.com/title/tt8579674/",
+      "genres":[
+         "Action",
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":124,
+      "title":"Pád Třetí říše",
+      "year":2004,
+      "runtime":156,
+      "rating":8.2,
+      "description":"Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+      "director":"Oliver Hirschbiegel",
+      "actors":[
+         "Bruno Ganz",
+         "Alexandra Maria Lara"
+      ],
+      "url":"https://www.imdb.com/title/tt0363163/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":125,
+      "title":"Dangal",
+      "year":2016,
+      "runtime":161,
+      "rating":8.2,
+      "description":"Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+      "director":"Nitesh Tiwari",
+      "actors":[
+         "Aamir Khan",
+         "Sakshi Tanwar"
+      ],
+      "url":"https://www.imdb.com/title/tt5074352/",
+      "genres":[
+         "Action",
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":126,
+      "title":"Pro pár dolarů navíc",
+      "year":1965,
+      "runtime":132,
+      "rating":8.2,
+      "description":"Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
+      "director":"Sergio Leone",
+      "actors":[
+         "Clint Eastwood",
+         "Lee Van Cleef"
+      ],
+      "url":"https://www.imdb.com/title/tt0059578/",
+      "genres":[
+         "Western"
+      ]
+   },
+   {
+      "id":127,
+      "title":"Batman začíná",
+      "year":2005,
+      "runtime":140,
+      "rating":8.2,
+      "description":"After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Christian Bale",
+         "Michael Caine"
+      ],
+      "url":"https://www.imdb.com/title/tt0372784/",
+      "genres":[
+         "Action",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":128,
+      "title":"Kid",
+      "year":1921,
+      "runtime":68,
+      "rating":8.2,
+      "description":"The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+      "director":"Charles Chaplin",
+      "actors":[
+         "Charles Chaplin",
+         "Edna Purviance"
+      ],
+      "url":"https://www.imdb.com/title/tt0012349/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "Family"
+      ]
+   },
+   {
+      "id":129,
+      "title":"Nekdo to rád horké",
+      "year":1959,
+      "runtime":121,
+      "rating":8.2,
+      "description":"After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+      "director":"Billy Wilder",
+      "actors":[
+         "Marilyn Monroe",
+         "Tony Curtis"
+      ],
+      "url":"https://www.imdb.com/title/tt0053291/",
+      "genres":[
+         "Comedy",
+         "Music",
+         "Romance"
+      ]
+   },
+   {
+      "id":130,
+      "title":"The Father",
+      "year":2020,
+      "runtime":97,
+      "rating":8.2,
+      "description":"A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his... Read all",
+      "director":"Florian Zeller",
+      "actors":[
+         "Anthony Hopkins",
+         "Olivia Colman"
+      ],
+      "url":"https://www.imdb.com/title/tt10272386/",
+      "genres":[
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":131,
+      "title":"Vše o Evě",
+      "year":1950,
+      "runtime":138,
+      "rating":8.2,
+      "description":"A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+      "director":"Joseph L. Mankiewicz",
+      "actors":[
+         "Bette Davis",
+         "Anne Baxter"
+      ],
+      "url":"https://www.imdb.com/title/tt0042192/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":132,
+      "title":"Zelená kniha",
+      "year":2018,
+      "runtime":130,
+      "rating":8.2,
+      "description":"A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+      "director":"Peter Farrelly",
+      "actors":[
+         "Viggo Mortensen",
+         "Mahershala Ali"
+      ],
+      "url":"https://www.imdb.com/title/tt6966692/",
+      "genres":[
+         "Biography",
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":133,
+      "title":"Vlk z Wall Street",
+      "year":2013,
+      "runtime":180,
+      "rating":8.2,
+      "description":"Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "director":"Martin Scorsese",
+      "actors":[
+         "Leonardo DiCaprio",
+         "Jonah Hill"
+      ],
+      "url":"https://www.imdb.com/title/tt0993846/",
+      "genres":[
+         "Biography",
+         "Comedy",
+         "Crime"
+      ]
+   },
+   {
+      "id":134,
+      "title":"Norimberský proces",
+      "year":1961,
+      "runtime":179,
+      "rating":8.2,
+      "description":"In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+      "director":"Stanley Kramer",
+      "actors":[
+         "Spencer Tracy",
+         "Burt Lancaster"
+      ],
+      "url":"https://www.imdb.com/title/tt0055031/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":135,
+      "title":"Casino",
+      "year":1995,
+      "runtime":178,
+      "rating":8.2,
+      "description":"A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fas... Read all",
+      "director":"Martin Scorsese",
+      "actors":[
+         "Robert De Niro",
+         "Sharon Stone"
+      ],
+      "url":"https://www.imdb.com/title/tt0112641/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":136,
+      "title":"Ran",
+      "year":1985,
+      "runtime":162,
+      "rating":8.2,
+      "description":"In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn o... Read all",
+      "director":"Akira Kurosawa",
+      "actors":[
+         "Tatsuya Nakadai",
+         "Akira Terao"
+      ],
+      "url":"https://www.imdb.com/title/tt0089881/",
+      "genres":[
+         "Action",
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":137,
+      "title":"Faunův labyrint",
+      "year":2006,
+      "runtime":118,
+      "rating":8.2,
+      "description":"In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+      "director":"Guillermo del Toro",
+      "actors":[
+         "Ivana Baquero",
+         "Ariadna Gil"
+      ],
+      "url":"https://www.imdb.com/title/tt0457430/",
+      "genres":[
+         "Drama",
+         "Fantasy",
+         "War"
+      ]
+   },
+   {
+      "id":138,
+      "title":"Truman Show",
+      "year":1998,
+      "runtime":103,
+      "rating":8.2,
+      "description":"An insurance salesman discovers his whole life is actually a reality TV show.",
+      "director":"Peter Weir",
+      "actors":[
+         "Jim Carrey",
+         "Ed Harris"
+      ],
+      "url":"https://www.imdb.com/title/tt0120382/",
+      "genres":[
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":139,
+      "title":"Až na krev",
+      "year":2007,
+      "runtime":158,
+      "rating":8.2,
+      "description":"A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+      "director":"Paul Thomas Anderson",
+      "actors":[
+         "Daniel Day-Lewis",
+         "Paul Dano"
+      ],
+      "url":"https://www.imdb.com/title/tt0469494/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":140,
+      "title":"Nesmiřitelní",
+      "year":1992,
+      "runtime":130,
+      "rating":8.2,
+      "description":"Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The Schofield Kid.",
+      "director":"Clint Eastwood",
+      "actors":[
+         "Clint Eastwood",
+         "Gene Hackman"
+      ],
+      "url":"https://www.imdb.com/title/tt0105695/",
+      "genres":[
+         "Drama",
+         "Western"
+      ]
+   },
+   {
+      "id":141,
+      "title":"Šestý smysl",
+      "year":1999,
+      "runtime":107,
+      "rating":8.2,
+      "description":"A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+      "director":"M. Night Shyamalan",
+      "actors":[
+         "Bruce Willis",
+         "Haley Joel Osment"
+      ],
+      "url":"https://www.imdb.com/title/tt0167404/",
+      "genres":[
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":142,
+      "title":"Prokletý ostrov",
+      "year":2010,
+      "runtime":138,
+      "rating":8.2,
+      "description":"In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+      "director":"Martin Scorsese",
+      "actors":[
+         "Leonardo DiCaprio",
+         "Emily Mortimer"
+      ],
+      "url":"https://www.imdb.com/title/tt1130884/",
+      "genres":[
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":143,
+      "title":"Čistá duše",
+      "year":2001,
+      "runtime":135,
+      "rating":8.2,
+      "description":"After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+      "director":"Ron Howard",
+      "actors":[
+         "Russell Crowe",
+         "Ed Harris"
+      ],
+      "url":"https://www.imdb.com/title/tt0268978/",
+      "genres":[
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":144,
+      "title":"Jurský park",
+      "year":1993,
+      "runtime":127,
+      "rating":8.1,
+      "description":"A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned din... Read all",
+      "director":"Steven Spielberg",
+      "actors":[
+         "Sam Neill",
+         "Laura Dern"
+      ],
+      "url":"https://www.imdb.com/title/tt0107290/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":145,
+      "title":"Tělesná stráž",
+      "year":1961,
+      "runtime":110,
+      "rating":8.1,
+      "description":"A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+      "director":"Akira Kurosawa",
+      "actors":[
+         "Toshir\u00f4 Mifune",
+         "Eijir\u00f4 T\u00f4no"
+      ],
+      "url":"https://www.imdb.com/title/tt0055630/",
+      "genres":[
+         "Action",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":146,
+      "title":"Poklad na Sierra Madre",
+      "year":1948,
+      "runtime":126,
+      "rating":8.1,
+      "description":"Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+      "director":"John Huston",
+      "actors":[
+         "Humphrey Bogart",
+         "Walter Huston"
+      ],
+      "url":"https://www.imdb.com/title/tt0040897/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "Western"
+      ]
+   },
+   {
+      "id":147,
+      "title":"Monty Python a svatý grál",
+      "year":1975,
+      "runtime":91,
+      "rating":8.1,
+      "description":"King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+      "director":"Terry Gilliam",
+      "actors":[
+         "Graham Chapman",
+         "John Cleese"
+      ],
+      "url":"https://www.imdb.com/title/tt0071853/",
+      "genres":[
+         "Adventure",
+         "Comedy",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":148,
+      "title":"Velký útěk",
+      "year":1963,
+      "runtime":172,
+      "rating":8.1,
+      "description":"Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+      "director":"John Sturges",
+      "actors":[
+         "Steve McQueen",
+         "James Garner"
+      ],
+      "url":"https://www.imdb.com/title/tt0057115/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":149,
+      "title":"Spider-Man: Bez domova",
+      "year":2021,
+      "runtime":148,
+      "rating":8.1,
+      "description":"With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it trul... Read all",
+      "director":"Jon Watts",
+      "actors":[
+         "Tom Holland",
+         "Zendaya"
+      ],
+      "url":"https://www.imdb.com/title/tt10872600/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":150,
+      "title":"Tahle země není pro starý",
+      "year":2007,
+      "runtime":122,
+      "rating":8.1,
+      "description":"Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+      "director":"Ethan Coen",
+      "actors":[
+         "Tommy Lee Jones",
+         "Javier Bardem"
+      ],
+      "url":"https://www.imdb.com/title/tt0477348/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":151,
+      "title":"Kill Bill",
+      "year":2003,
+      "runtime":111,
+      "rating":8.1,
+      "description":"After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+      "director":"Quentin Tarantino",
+      "actors":[
+         "Uma Thurman",
+         "David Carradine"
+      ],
+      "url":"https://www.imdb.com/title/tt0266697/",
+      "genres":[
+         "Action",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":152,
+      "title":"Rašomon",
+      "year":1950,
+      "runtime":88,
+      "rating":8.1,
+      "description":"The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+      "director":"Akira Kurosawa",
+      "actors":[
+         "Toshir\u00f4 Mifune",
+         "Machiko Ky\u00f4"
+      ],
+      "url":"https://www.imdb.com/title/tt0042876/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":153,
+      "title":"Věc",
+      "year":1982,
+      "runtime":109,
+      "rating":8.1,
+      "description":"A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "director":"John Carpenter",
+      "actors":[
+         "Kurt Russell",
+         "Wilford Brimley"
+      ],
+      "url":"https://www.imdb.com/title/tt0084787/",
+      "genres":[
+         "Horror",
+         "Mystery",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":154,
+      "title":"Hledá se Nemo",
+      "year":2003,
+      "runtime":100,
+      "rating":8.1,
+      "description":"After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "director":"Andrew Stanton",
+      "actors":[
+         "Albert Brooks",
+         "Ellen DeGeneres"
+      ],
+      "url":"https://www.imdb.com/title/tt0266543/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":155,
+      "title":"Sloní Muž",
+      "year":1980,
+      "runtime":124,
+      "rating":8.1,
+      "description":"A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, inte... Read all",
+      "director":"David Lynch",
+      "actors":[
+         "Anthony Hopkins",
+         "John Hurt"
+      ],
+      "url":"https://www.imdb.com/title/tt0080678/",
+      "genres":[
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":156,
+      "title":"Čínská čtvrť",
+      "year":1974,
+      "runtime":130,
+      "rating":8.1,
+      "description":"A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+      "director":"Roman Polanski",
+      "actors":[
+         "Jack Nicholson",
+         "Faye Dunaway"
+      ],
+      "url":"https://www.imdb.com/title/tt0071315/",
+      "genres":[
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":157,
+      "title":"Zuřící býk",
+      "year":1980,
+      "runtime":129,
+      "rating":8.1,
+      "description":"The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "director":"Martin Scorsese",
+      "actors":[
+         "Robert De Niro",
+         "Cathy Moriarty"
+      ],
+      "url":"https://www.imdb.com/title/tt0081398/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "Sport"
+      ]
+   },
+   {
+      "id":158,
+      "title":"V jako Vendeta",
+      "year":2005,
+      "runtime":132,
+      "rating":8.1,
+      "description":"In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+      "director":"James McTeigue",
+      "actors":[
+         "Hugo Weaving",
+         "Natalie Portman"
+      ],
+      "url":"https://www.imdb.com/title/tt0434409/",
+      "genres":[
+         "Action",
+         "Drama",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":159,
+      "title":"Jih proti Severu",
+      "year":1939,
+      "runtime":238,
+      "rating":8.1,
+      "description":"American motion picture classic in which a manipulative woman and a roguish man conduct a turbulent romance during the Civil War and Reconstruction periods.",
+      "director":"Victor Fleming",
+      "actors":[
+         "Clark Gable",
+         "Vivien Leigh"
+      ],
+      "url":"https://www.imdb.com/title/tt0031381/",
+      "genres":[
+         "Drama",
+         "Romance",
+         "War"
+      ]
+   },
+   {
+      "id":160,
+      "title":"Sbal prachy a vypadni",
+      "year":1998,
+      "runtime":107,
+      "rating":8.1,
+      "description":"Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+      "director":"Guy Ritchie",
+      "actors":[
+         "Jason Flemyng",
+         "Dexter Fletcher"
+      ],
+      "url":"https://www.imdb.com/title/tt0120735/",
+      "genres":[
+         "Action",
+         "Comedy",
+         "Crime"
+      ]
+   },
+   {
+      "id":161,
+      "title":"V hlavě",
+      "year":2015,
+      "runtime":95,
+      "rating":8.1,
+      "description":"After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and... Read all",
+      "director":"Pete Docter",
+      "actors":[
+         "Amy Poehler",
+         "Bill Hader"
+      ],
+      "url":"https://www.imdb.com/title/tt2096673/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":162,
+      "title":"Vrazda na objednávku",
+      "year":1954,
+      "runtime":105,
+      "rating":8.1,
+      "description":"A former tennis star arranges the murder of his adulterous wife.",
+      "director":"Alfred Hitchcock",
+      "actors":[
+         "Ray Milland",
+         "Grace Kelly"
+      ],
+      "url":"https://www.imdb.com/title/tt0046912/",
+      "genres":[
+         "Crime",
+         "Thriller"
+      ]
+   },
+   {
+      "id":163,
+      "title":"Tajemství jejich ocí",
+      "year":2009,
+      "runtime":129,
+      "rating":8.1,
+      "description":"A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt hi... Read all",
+      "director":"Juan José Campanella",
+      "actors":[
+         "Ricardo Dar\u00edn",
+         "Soledad Villamil"
+      ],
+      "url":"https://www.imdb.com/title/tt1305806/",
+      "genres":[
+         "Drama",
+         "Mystery",
+         "Romance"
+      ]
+   },
+   {
+      "id":164,
+      "title":"Zámek v oblacích",
+      "year":2004,
+      "runtime":119,
+      "rating":8.1,
+      "description":"When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions ... Read all",
+      "director":"Hayao Miyazaki",
+      "actors":[
+         "Chieko Baisho",
+         "Takuya Kimura"
+      ],
+      "url":"https://www.imdb.com/title/tt0347149/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Family"
+      ]
+   },
+   {
+      "id":165,
+      "title":"Tři billboardy kousek za Ebbingem",
+      "year":2017,
+      "runtime":115,
+      "rating":8.1,
+      "description":"A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+      "director":"Martin McDonagh",
+      "actors":[
+         "Frances McDormand",
+         "Woody Harrelson"
+      ],
+      "url":"https://www.imdb.com/title/tt5027774/",
+      "genres":[
+         "Comedy",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":166,
+      "title":"Most přes řeku Kwai",
+      "year":1957,
+      "runtime":161,
+      "rating":8.1,
+      "description":"British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid t... Read all",
+      "director":"David Lean",
+      "actors":[
+         "William Holden",
+         "Alec Guinness"
+      ],
+      "url":"https://www.imdb.com/title/tt0050212/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":167,
+      "title":"Trainspotting",
+      "year":1996,
+      "runtime":93,
+      "rating":8.1,
+      "description":"Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+      "director":"Danny Boyle",
+      "actors":[
+         "Ewan McGregor",
+         "Ewen Bremner"
+      ],
+      "url":"https://www.imdb.com/title/tt0117951/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":168,
+      "title":"Zmizení",
+      "year":2013,
+      "runtime":153,
+      "rating":8.1,
+      "description":"When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+      "director":"Denis Villeneuve",
+      "actors":[
+         "Hugh Jackman",
+         "Jake Gyllenhaal"
+      ],
+      "url":"https://www.imdb.com/title/tt1392214/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":169,
+      "title":"Warrior",
+      "year":2011,
+      "runtime":140,
+      "rating":8.1,
+      "description":"The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision ... Read all",
+      "director":"Gavin O'Connor",
+      "actors":[
+         "Tom Hardy",
+         "Nick Nolte"
+      ],
+      "url":"https://www.imdb.com/title/tt1291584/",
+      "genres":[
+         "Action",
+         "Drama",
+         "Sport"
+      ]
+   },
+   {
+      "id":170,
+      "title":"Fargo",
+      "year":1996,
+      "runtime":98,
+      "rating":8.1,
+      "description":"Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "director":"Joel Coen",
+      "actors":[
+         "William H. Macy",
+         "Frances McDormand"
+      ],
+      "url":"https://www.imdb.com/title/tt0116282/",
+      "genres":[
+         "Crime",
+         "Thriller"
+      ]
+   },
+   {
+      "id":171,
+      "title":"Gran Torino",
+      "year":2008,
+      "runtime":116,
+      "rating":8.1,
+      "description":"Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+      "director":"Clint Eastwood",
+      "actors":[
+         "Clint Eastwood",
+         "Bee Vang"
+      ],
+      "url":"https://www.imdb.com/title/tt1205489/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":172,
+      "title":"Můj soused Totoro",
+      "year":1988,
+      "runtime":86,
+      "rating":8.1,
+      "description":"When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+      "director":"Hayao Miyazaki",
+      "actors":[
+         "Hitoshi Takagi",
+         "Noriko Hidaka"
+      ],
+      "url":"https://www.imdb.com/title/tt0096283/",
+      "genres":[
+         "Animation",
+         "Comedy",
+         "Family"
+      ]
+   },
+   {
+      "id":173,
+      "title":"Chyť mě, když to dokážeš",
+      "year":2002,
+      "runtime":141,
+      "rating":8.1,
+      "description":"Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+      "director":"Steven Spielberg",
+      "actors":[
+         "Leonardo DiCaprio",
+         "Tom Hanks"
+      ],
+      "url":"https://www.imdb.com/title/tt0264464/",
+      "genres":[
+         "Biography",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":174,
+      "title":"Million Dollar Baby",
+      "year":2004,
+      "runtime":132,
+      "rating":8.1,
+      "description":"A determined woman works with a hardened boxing trainer to become a professional.",
+      "director":"Clint Eastwood",
+      "actors":[
+         "Hilary Swank",
+         "Clint Eastwood"
+      ],
+      "url":"https://www.imdb.com/title/tt0405159/",
+      "genres":[
+         "Drama",
+         "Sport"
+      ]
+   },
+   {
+      "id":175,
+      "title":"Božské děti",
+      "year":1997,
+      "runtime":89,
+      "rating":8.1,
+      "description":"After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+      "director":"Majid Majidi",
+      "actors":[
+         "Mohammad Amir Naji",
+         "Amir Farrokh Hashemian"
+      ],
+      "url":"https://www.imdb.com/title/tt0118849/",
+      "genres":[
+         "Drama",
+         "Family",
+         "Sport"
+      ]
+   },
+   {
+      "id":176,
+      "title":"Blade Runner",
+      "year":1982,
+      "runtime":117,
+      "rating":8.1,
+      "description":"A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+      "director":"Ridley Scott",
+      "actors":[
+         "Harrison Ford",
+         "Rutger Hauer"
+      ],
+      "url":"https://www.imdb.com/title/tt0083658/",
+      "genres":[
+         "Action",
+         "Drama",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":177,
+      "title":"Zlaté Opojení",
+      "year":1925,
+      "runtime":95,
+      "rating":8.1,
+      "description":"A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+      "director":"Charles Chaplin",
+      "actors":[
+         "Charles Chaplin",
+         "Mack Swain"
+      ],
+      "url":"https://www.imdb.com/title/tt0015864/",
+      "genres":[
+         "Adventure",
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":178,
+      "title":"Pred úsvitem",
+      "year":1995,
+      "runtime":101,
+      "rating":8.1,
+      "description":"A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+      "director":"Richard Linklater",
+      "actors":[
+         "Ethan Hawke",
+         "Julie Delpy"
+      ],
+      "url":"https://www.imdb.com/title/tt0112471/",
+      "genres":[
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":179,
+      "title":"12 let v řetězech",
+      "year":2013,
+      "runtime":134,
+      "rating":8.1,
+      "description":"In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+      "director":"Steve McQueen",
+      "actors":[
+         "Chiwetel Ejiofor",
+         "Michael Kenneth Williams"
+      ],
+      "url":"https://www.imdb.com/title/tt2024544/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":180,
+      "title":"Klaus",
+      "year":2019,
+      "runtime":96,
+      "rating":8.1,
+      "description":"A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliv... Read all",
+      "director":"Sergio Pablos",
+      "actors":[
+         "Jason Schwartzman",
+         "J.K. Simmons"
+      ],
+      "url":"https://www.imdb.com/title/tt4729430/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":181,
+      "title":"Harry Potter a Relikvie smrti - část 2",
+      "year":2011,
+      "runtime":130,
+      "rating":8.1,
+      "description":"Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+      "director":"David Yates",
+      "actors":[
+         "Daniel Radcliffe",
+         "Emma Watson"
+      ],
+      "url":"https://www.imdb.com/title/tt1201607/",
+      "genres":[
+         "Adventure",
+         "Family",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":182,
+      "title":"V prístavu",
+      "year":1954,
+      "runtime":108,
+      "rating":8.1,
+      "description":"An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of ... Read all",
+      "director":"Elia Kazan",
+      "actors":[
+         "Marlon Brando",
+         "Karl Malden"
+      ],
+      "url":"https://www.imdb.com/title/tt0047296/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":183,
+      "title":"Ben Hur",
+      "year":1959,
+      "runtime":212,
+      "rating":8.1,
+      "description":"After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+      "director":"William Wyler",
+      "actors":[
+         "Charlton Heston",
+         "Jack Hawkins"
+      ],
+      "url":"https://www.imdb.com/title/tt0052618/",
+      "genres":[
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":184,
+      "title":"Zmizelá",
+      "year":2014,
+      "runtime":149,
+      "rating":8.1,
+      "description":"With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "director":"David Fincher",
+      "actors":[
+         "Ben Affleck",
+         "Rosamund Pike"
+      ],
+      "url":"https://www.imdb.com/title/tt2267998/",
+      "genres":[
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":185,
+      "title":"Grandhotel Budapešť",
+      "year":2014,
+      "runtime":99,
+      "rating":8.1,
+      "description":"A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+      "director":"Wes Anderson",
+      "actors":[
+         "Ralph Fiennes",
+         "F. Murray Abraham"
+      ],
+      "url":"https://www.imdb.com/title/tt2278388/",
+      "genres":[
+         "Adventure",
+         "Comedy",
+         "Crime"
+      ]
+   },
+   {
+      "id":186,
+      "title":"Lesní jahody",
+      "year":1957,
+      "runtime":91,
+      "rating":8.1,
+      "description":"After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+      "director":"Ingmar Bergman",
+      "actors":[
+         "Victor Sj\u00f6str\u00f6m",
+         "Bibi Andersson"
+      ],
+      "url":"https://www.imdb.com/title/tt0050986/",
+      "genres":[
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":187,
+      "title":"Frigo na mašině",
+      "year":1926,
+      "runtime":67,
+      "rating":8.1,
+      "description":"After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized ... Read all",
+      "director":"Clyde Bruckman",
+      "actors":[
+         "Buster Keaton",
+         "Marion Mack"
+      ],
+      "url":"https://www.imdb.com/title/tt0017925/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":188,
+      "title":"Třetí muž",
+      "year":1949,
+      "runtime":104,
+      "rating":8.1,
+      "description":"Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+      "director":"Carol Reed",
+      "actors":[
+         "Orson Welles",
+         "Joseph Cotten"
+      ],
+      "url":"https://www.imdb.com/title/tt0041959/",
+      "genres":[
+         "Film-Noir",
+         "Mystery",
+         "Thriller"
+      ]
+   },
+   {
+      "id":189,
+      "title":"Ve jménu otce",
+      "year":1993,
+      "runtime":133,
+      "rating":8.1,
+      "description":"A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+      "director":"Jim Sheridan",
+      "actors":[
+         "Daniel Day-Lewis",
+         "Pete Postlethwaite"
+      ],
+      "url":"https://www.imdb.com/title/tt0107207/",
+      "genres":[
+         "Biography",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":190,
+      "title":"Lovec jelenů",
+      "year":1978,
+      "runtime":183,
+      "rating":8.1,
+      "description":"An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+      "director":"Michael Cimino",
+      "actors":[
+         "Robert De Niro",
+         "Christopher Walken"
+      ],
+      "url":"https://www.imdb.com/title/tt0077416/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":191,
+      "title":"Barry Lyndon",
+      "year":1975,
+      "runtime":185,
+      "rating":8.1,
+      "description":"An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+      "director":"Stanley Kubrick",
+      "actors":[
+         "Ryan O'Neal",
+         "Marisa Berenson"
+      ],
+      "url":"https://www.imdb.com/title/tt0072684/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":192,
+      "title":"Hacksaw Ridge: Zrození hrdiny",
+      "year":2016,
+      "runtime":139,
+      "rating":8.1,
+      "description":"World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor ... Read all",
+      "director":"Mel Gibson",
+      "actors":[
+         "Andrew Garfield",
+         "Sam Worthington"
+      ],
+      "url":"https://www.imdb.com/title/tt2119532/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":193,
+      "title":"Mzda strachu",
+      "year":1953,
+      "runtime":131,
+      "rating":8.1,
+      "description":"In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+      "director":"Henri-Georges Clouzot",
+      "actors":[
+         "Yves Montand",
+         "Charles Vanel"
+      ],
+      "url":"https://www.imdb.com/title/tt0046268/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":194,
+      "title":"Pečeť vraha",
+      "year":2003,
+      "runtime":131,
+      "rating":8.1,
+      "description":"In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+      "director":"Bong Joon Ho",
+      "actors":[
+         "Song Kang-ho",
+         "Kim Sang-kyung"
+      ],
+      "url":"https://www.imdb.com/title/tt0353969/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":195,
+      "title":"Sherlock Jr.",
+      "year":1924,
+      "runtime":2700,
+      "rating":8.1,
+      "description":"A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+      "director":"Buster Keaton",
+      "actors":[
+         "Buster Keaton",
+         "Kathryn McGuire"
+      ],
+      "url":"https://www.imdb.com/title/tt0015324/",
+      "genres":[
+         "Action",
+         "Comedy",
+         "Romance"
+      ]
+   },
+   {
+      "id":196,
+      "title":"Divoké historky",
+      "year":2014,
+      "runtime":122,
+      "rating":8.1,
+      "description":"Six short stories that explore the extremities of human behavior involving people in distress.",
+      "director":"Damián Szifron",
+      "actors":[
+         "Dar\u00edo Grandinetti",
+         "Mar\u00eda Marull"
+      ],
+      "url":"https://www.imdb.com/title/tt3011894/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":197,
+      "title":"Pan Smith přichází",
+      "year":1939,
+      "runtime":129,
+      "rating":8.1,
+      "description":"A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries... Read all",
+      "director":"Frank Capra",
+      "actors":[
+         "James Stewart",
+         "Jean Arthur"
+      ],
+      "url":"https://www.imdb.com/title/tt0031679/",
+      "genres":[
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":198,
+      "title":"Šílený Max: Zběsilá cesta",
+      "year":2015,
+      "runtime":120,
+      "rating":8.1,
+      "description":"In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named ... Read all",
+      "director":"George Miller",
+      "actors":[
+         "Tom Hardy",
+         "Charlize Theron"
+      ],
+      "url":"https://www.imdb.com/title/tt1392190/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":199,
+      "title":"Sedmá pečeť",
+      "year":1957,
+      "runtime":96,
+      "rating":8.1,
+      "description":"A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+      "director":"Ingmar Bergman",
+      "actors":[
+         "Max von Sydow",
+         "Gunnar Bj\u00f6rnstrand"
+      ],
+      "url":"https://www.imdb.com/title/tt0050976/",
+      "genres":[
+         "Drama",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":200,
+      "title":"Mary a Max",
+      "year":2009,
+      "runtime":92,
+      "rating":8.1,
+      "description":"A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New Y... Read all",
+      "director":"Adam Elliot",
+      "actors":[
+         "Toni Collette",
+         "Philip Seymour Hoffman"
+      ],
+      "url":"https://www.imdb.com/title/tt0978762/",
+      "genres":[
+         "Animation",
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":201,
+      "title":"Jak vycvičit draka",
+      "year":2010,
+      "runtime":98,
+      "rating":8.1,
+      "description":"A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "director":"Dean DeBlois",
+      "actors":[
+         "Jay Baruchel",
+         "Gerard Butler"
+      ],
+      "url":"https://www.imdb.com/title/tt0892769/",
+      "genres":[
+         "Animation",
+         "Action",
+         "Adventure"
+      ]
+   },
+   {
+      "id":202,
+      "title":"Pokoj",
+      "year":2015,
+      "runtime":118,
+      "rating":8.1,
+      "description":"Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+      "director":"Lenny Abrahamson",
+      "actors":[
+         "Brie Larson",
+         "Jacob Tremblay"
+      ],
+      "url":"https://www.imdb.com/title/tt3170832/",
+      "genres":[
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":203,
+      "title":"Příšerky s.r.o.",
+      "year":2001,
+      "runtime":92,
+      "rating":8.1,
+      "description":"In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things ... Read all",
+      "director":"Pete Docter",
+      "actors":[
+         "Billy Crystal",
+         "John Goodman"
+      ],
+      "url":"https://www.imdb.com/title/tt0198781/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":204,
+      "title":"Čelisti",
+      "year":1975,
+      "runtime":124,
+      "rating":8.1,
+      "description":"When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+      "director":"Steven Spielberg",
+      "actors":[
+         "Roy Scheider",
+         "Robert Shaw"
+      ],
+      "url":"https://www.imdb.com/title/tt0073195/",
+      "genres":[
+         "Adventure",
+         "Thriller"
+      ]
+   },
+   {
+      "id":205,
+      "title":"Big Lebowski",
+      "year":1998,
+      "runtime":117,
+      "rating":8.1,
+      "description":"Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help whi... Read all",
+      "director":"Joel Coen",
+      "actors":[
+         "Jeff Bridges",
+         "John Goodman"
+      ],
+      "url":"https://www.imdb.com/title/tt0118715/",
+      "genres":[
+         "Comedy",
+         "Crime"
+      ]
+   },
+   {
+      "id":206,
+      "title":"Společnost mrtvých básníků",
+      "year":1989,
+      "runtime":128,
+      "rating":8.1,
+      "description":"Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+      "director":"Peter Weir",
+      "actors":[
+         "Robin Williams",
+         "Robert Sean Leonard"
+      ],
+      "url":"https://www.imdb.com/title/tt0097165/",
+      "genres":[
+         "Comedy",
+         "Drama"
+      ]
+   },
+   {
+      "id":207,
+      "title":"Příběh z Tokia",
+      "year":1953,
+      "runtime":136,
+      "rating":8.1,
+      "description":"An old couple visit their children and grandchildren in the city, but receive little attention.",
+      "director":"Yasujirô Ozu",
+      "actors":[
+         "Chish\u00fb Ry\u00fb",
+         "Chieko Higashiyama"
+      ],
+      "url":"https://www.imdb.com/title/tt0046438/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":208,
+      "title":"Utrpení Panny orleánské",
+      "year":1928,
+      "runtime":110,
+      "rating":8.1,
+      "description":"In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+      "director":"Carl Theodor Dreyer",
+      "actors":[
+         "Maria Falconetti",
+         "Eugene Silvain"
+      ],
+      "url":"https://www.imdb.com/title/tt0019254/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":209,
+      "title":"Hotel Rwanda",
+      "year":2004,
+      "runtime":121,
+      "rating":8.0,
+      "description":"Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+      "director":"Terry George",
+      "actors":[
+         "Don Cheadle",
+         "Sophie Okonedo"
+      ],
+      "url":"https://www.imdb.com/title/tt0395169/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":210,
+      "title":"Le Mans '66",
+      "year":2019,
+      "runtime":152,
+      "rating":8.0,
+      "description":"American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 2... Read all",
+      "director":"James Mangold",
+      "actors":[
+         "Matt Damon",
+         "Christian Bale"
+      ],
+      "url":"https://www.imdb.com/title/tt1950186/",
+      "genres":[
+         "Action",
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":211,
+      "title":"Rocky",
+      "year":1976,
+      "runtime":120,
+      "rating":8.0,
+      "description":"A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "director":"John G. Avildsen",
+      "actors":[
+         "Sylvester Stallone",
+         "Talia Shire"
+      ],
+      "url":"https://www.imdb.com/title/tt0075148/",
+      "genres":[
+         "Drama",
+         "Sport"
+      ]
+   },
+   {
+      "id":212,
+      "title":"Četa",
+      "year":1986,
+      "runtime":120,
+      "rating":8.0,
+      "description":"Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and th... Read all",
+      "director":"Oliver Stone",
+      "actors":[
+         "Charlie Sheen",
+         "Tom Berenger"
+      ],
+      "url":"https://www.imdb.com/title/tt0091763/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":213,
+      "title":"Ratatouille",
+      "year":2007,
+      "runtime":111,
+      "rating":8.0,
+      "description":"A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+      "director":"Brad Bird",
+      "actors":[
+         "Brad Garrett",
+         "Lou Romano"
+      ],
+      "url":"https://www.imdb.com/title/tt0382932/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":214,
+      "title":"Spotlight",
+      "year":2015,
+      "runtime":129,
+      "rating":8.0,
+      "description":"The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+      "director":"Tom McCarthy",
+      "actors":[
+         "Mark Ruffalo",
+         "Michael Keaton"
+      ],
+      "url":"https://www.imdb.com/title/tt1895587/",
+      "genres":[
+         "Biography",
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":215,
+      "title":"Terminátor",
+      "year":1984,
+      "runtime":107,
+      "rating":8.0,
+      "description":"A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn so... Read all",
+      "director":"James Cameron",
+      "actors":[
+         "Arnold Schwarzenegger",
+         "Linda Hamilton"
+      ],
+      "url":"https://www.imdb.com/title/tt0088247/",
+      "genres":[
+         "Action",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":216,
+      "title":"Logan: Wolverine",
+      "year":2017,
+      "runtime":137,
+      "rating":8.0,
+      "description":"In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to s... Read all",
+      "director":"James Mangold",
+      "actors":[
+         "Hugh Jackman",
+         "Patrick Stewart"
+      ],
+      "url":"https://www.imdb.com/title/tt3315342/",
+      "genres":[
+         "Action",
+         "Drama",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "id":217,
+      "title":"Stůj při mně",
+      "year":1986,
+      "runtime":89,
+      "rating":8.0,
+      "description":"After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+      "director":"Rob Reiner",
+      "actors":[
+         "Wil Wheaton",
+         "River Phoenix"
+      ],
+      "url":"https://www.imdb.com/title/tt0092005/",
+      "genres":[
+         "Adventure",
+         "Drama"
+      ]
+   },
+   {
+      "id":218,
+      "title":"Rivalové",
+      "year":2013,
+      "runtime":123,
+      "rating":8.0,
+      "description":"The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+      "director":"Ron Howard",
+      "actors":[
+         "Daniel Br\u00fchl",
+         "Chris Hemsworth"
+      ],
+      "url":"https://www.imdb.com/title/tt1979320/",
+      "genres":[
+         "Action",
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":219,
+      "title":"Network",
+      "year":1976,
+      "runtime":121,
+      "rating":8.0,
+      "description":"A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",
+      "director":"Sidney Lumet",
+      "actors":[
+         "Faye Dunaway",
+         "William Holden"
+      ],
+      "url":"https://www.imdb.com/title/tt0074958/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":220,
+      "title":"Útěk do divočiny",
+      "year":2007,
+      "runtime":148,
+      "rating":8.0,
+      "description":"After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska ... Read all",
+      "director":"Sean Penn",
+      "actors":[
+         "Emile Hirsch",
+         "Vince Vaughn"
+      ],
+      "url":"https://www.imdb.com/title/tt0758758/",
+      "genres":[
+         "Adventure",
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":221,
+      "title":"Před soumrakem",
+      "year":2004,
+      "runtime":80,
+      "rating":8.0,
+      "description":"Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+      "director":"Richard Linklater",
+      "actors":[
+         "Ethan Hawke",
+         "Julie Delpy"
+      ],
+      "url":"https://www.imdb.com/title/tt0381681/",
+      "genres":[
+         "Drama",
+         "Romance"
+      ]
+   },
+   {
+      "id":222,
+      "title":"Čaroděj ze země Oz",
+      "year":1939,
+      "runtime":102,
+      "rating":8.0,
+      "description":"Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can retu... Read all",
+      "director":"Victor Fleming",
+      "actors":[
+         "Judy Garland",
+         "Frank Morgan"
+      ],
+      "url":"https://www.imdb.com/title/tt0032138/",
+      "genres":[
+         "Adventure",
+         "Family",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":223,
+      "title":"Pather Panchali",
+      "year":1955,
+      "runtime":125,
+      "rating":8.0,
+      "description":"Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+      "director":"Satyajit Ray",
+      "actors":[
+         "Kanu Bannerjee",
+         "Karuna Bannerjee"
+      ],
+      "url":"https://www.imdb.com/title/tt0048473/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":224,
+      "title":"Na Hromnice o den více",
+      "year":1993,
+      "runtime":101,
+      "rating":8.0,
+      "description":"A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.",
+      "director":"Harold Ramis",
+      "actors":[
+         "Bill Murray",
+         "Andie MacDowell"
+      ],
+      "url":"https://www.imdb.com/title/tt0107048/",
+      "genres":[
+         "Comedy",
+         "Drama",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":225,
+      "title":"Nejlepší léta našeho života",
+      "year":1946,
+      "runtime":170,
+      "rating":8.0,
+      "description":"Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+      "director":"William Wyler",
+      "actors":[
+         "Myrna Loy",
+         "Dana Andrews"
+      ],
+      "url":"https://www.imdb.com/title/tt0036868/",
+      "genres":[
+         "Drama",
+         "Romance",
+         "War"
+      ]
+   },
+   {
+      "id":226,
+      "title":"Vymítač ďábla",
+      "year":1973,
+      "runtime":122,
+      "rating":8.0,
+      "description":"When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+      "director":"William Friedkin",
+      "actors":[
+         "Ellen Burstyn",
+         "Max von Sydow"
+      ],
+      "url":"https://www.imdb.com/title/tt0070047/",
+      "genres":[
+         "Horror"
+      ]
+   },
+   {
+      "id":227,
+      "title":"Úžasňákovi",
+      "year":2004,
+      "runtime":115,
+      "rating":8.0,
+      "description":"While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+      "director":"Brad Bird",
+      "actors":[
+         "Craig T. Nelson",
+         "Samuel L. Jackson"
+      ],
+      "url":"https://www.imdb.com/title/tt0317705/",
+      "genres":[
+         "Animation",
+         "Action",
+         "Adventure"
+      ]
+   },
+   {
+      "id":228,
+      "title":"To Be or Not to Be",
+      "year":1942,
+      "runtime":99,
+      "rating":8.0,
+      "description":"During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+      "director":"Ernst Lubitsch",
+      "actors":[
+         "Carole Lombard",
+         "Jack Benny"
+      ],
+      "url":"https://www.imdb.com/title/tt0035446/",
+      "genres":[
+         "Comedy",
+         "Romance",
+         "War"
+      ]
+   },
+   {
+      "id":229,
+      "title":"Nenávist",
+      "year":1995,
+      "runtime":98,
+      "rating":8.0,
+      "description":"24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+      "director":"Mathieu Kassovitz",
+      "actors":[
+         "Vincent Cassel",
+         "Hubert Kound\u00e9"
+      ],
+      "url":"https://www.imdb.com/title/tt0113247/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":230,
+      "title":"Bitva o Alžír",
+      "year":1966,
+      "runtime":121,
+      "rating":8.0,
+      "description":"In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+      "director":"Gillo Pontecorvo",
+      "actors":[
+         "Brahim Hadjadj",
+         "Jean Martin"
+      ],
+      "url":"https://www.imdb.com/title/tt0058946/",
+      "genres":[
+         "Drama",
+         "War"
+      ]
+   },
+   {
+      "id":231,
+      "title":"Piráti z Karibiku - Prokletí Černé perly",
+      "year":2003,
+      "runtime":143,
+      "rating":8.0,
+      "description":"Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+      "director":"Gore Verbinski",
+      "actors":[
+         "Johnny Depp",
+         "Geoffrey Rush"
+      ],
+      "url":"https://www.imdb.com/title/tt0325980/",
+      "genres":[
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ]
+   },
+   {
+      "id":232,
+      "title":"Hačikó - příběh psa",
+      "year":2009,
+      "runtime":93,
+      "rating":8.0,
+      "description":"A college professor bonds with an abandoned dog he takes into his home.",
+      "director":"Lasse Hallström",
+      "actors":[
+         "Richard Gere",
+         "Joan Allen"
+      ],
+      "url":"https://www.imdb.com/title/tt1028532/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "Family"
+      ]
+   },
+   {
+      "id":233,
+      "title":"Jai Bhim",
+      "year":2021,
+      "runtime":164,
+      "rating":8.0,
+      "description":"When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+      "director":"T.J. Gnanavel",
+      "actors":[
+         "Suriya",
+         "Lijo Mol Jose"
+      ],
+      "url":"https://www.imdb.com/title/tt15097216/",
+      "genres":[
+         "Crime",
+         "Drama",
+         "Mystery"
+      ]
+   },
+   {
+      "id":234,
+      "title":"Hrozny hněvu",
+      "year":1940,
+      "runtime":129,
+      "rating":8.0,
+      "description":"An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great... Read all",
+      "director":"John Ford",
+      "actors":[
+         "Henry Fonda",
+         "Jane Darwell"
+      ],
+      "url":"https://www.imdb.com/title/tt0032551/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":235,
+      "title":"Babam ve Oglum",
+      "year":2005,
+      "runtime":112,
+      "rating":8.0,
+      "description":"The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+      "director":"Çagan Irmak",
+      "actors":[
+         "\u00c7etin Tekindor",
+         "Fikret Kuskan"
+      ],
+      "url":"https://www.imdb.com/title/tt0476735/",
+      "genres":[
+         "Drama",
+         "Family"
+      ]
+   },
+   {
+      "id":236,
+      "title":"Amores perros - Láska je kurva",
+      "year":2000,
+      "runtime":154,
+      "rating":8.0,
+      "description":"A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+      "director":"Alejandro G. Iñárritu",
+      "actors":[
+         "Emilio Echevarr\u00eda",
+         "Gael Garc\u00eda Bernal"
+      ],
+      "url":"https://www.imdb.com/title/tt0245712/",
+      "genres":[
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":237,
+      "title":"Mrtvá a živá",
+      "year":1940,
+      "runtime":130,
+      "rating":8.0,
+      "description":"A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+      "director":"Alfred Hitchcock",
+      "actors":[
+         "Laurence Olivier",
+         "Joan Fontaine"
+      ],
+      "url":"https://www.imdb.com/title/tt0032976/",
+      "genres":[
+         "Drama",
+         "Film-Noir",
+         "Mystery"
+      ]
+   },
+   {
+      "id":238,
+      "title":"Frajer Luke",
+      "year":1967,
+      "runtime":127,
+      "rating":8.0,
+      "description":"A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+      "director":"Stuart Rosenberg",
+      "actors":[
+         "Paul Newman",
+         "George Kennedy"
+      ],
+      "url":"https://www.imdb.com/title/tt0061512/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":239,
+      "title":"Komorná",
+      "year":2016,
+      "runtime":145,
+      "rating":8.0,
+      "description":"A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+      "director":"Park Chan-wook",
+      "actors":[
+         "Kim Min-hee",
+         "Ha Jung-woo"
+      ],
+      "url":"https://www.imdb.com/title/tt4016934/",
+      "genres":[
+         "Drama",
+         "Romance",
+         "Thriller"
+      ]
+   },
+   {
+      "id":240,
+      "title":"Nikdo mne nemá rád",
+      "year":1959,
+      "runtime":99,
+      "rating":8.0,
+      "description":"A young boy, left without attention, delves into a life of petty crime.",
+      "director":"François Truffaut",
+      "actors":[
+         "Jean-Pierre L\u00e9aud",
+         "Albert R\u00e9my"
+      ],
+      "url":"https://www.imdb.com/title/tt0053198/",
+      "genres":[
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "id":241,
+      "title":"The Sound of Music",
+      "year":1965,
+      "runtime":172,
+      "rating":8.0,
+      "description":"A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+      "director":"Robert Wise",
+      "actors":[
+         "Julie Andrews",
+         "Christopher Plummer"
+      ],
+      "url":"https://www.imdb.com/title/tt0059742/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "Family"
+      ]
+   },
+   {
+      "id":242,
+      "title":"Stalo se jedné noci",
+      "year":1934,
+      "runtime":105,
+      "rating":8.0,
+      "description":"A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behin... Read all",
+      "director":"Frank Capra",
+      "actors":[
+         "Clark Gable",
+         "Claudette Colbert"
+      ],
+      "url":"https://www.imdb.com/title/tt0025316/",
+      "genres":[
+         "Comedy",
+         "Romance"
+      ]
+   },
+   {
+      "id":243,
+      "title":"Persona",
+      "year":1966,
+      "runtime":85,
+      "rating":8.0,
+      "description":"A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+      "director":"Ingmar Bergman",
+      "actors":[
+         "Bibi Andersson",
+         "Liv Ullmann"
+      ],
+      "url":"https://www.imdb.com/title/tt0060827/",
+      "genres":[
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "id":244,
+      "title":"Život Briana",
+      "year":1979,
+      "runtime":94,
+      "rating":8.0,
+      "description":"Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",
+      "director":"Terry Jones",
+      "actors":[
+         "Graham Chapman",
+         "John Cleese"
+      ],
+      "url":"https://www.imdb.com/title/tt0079470/",
+      "genres":[
+         "Comedy"
+      ]
+   },
+   {
+      "id":245,
+      "title":"The Iron Giant",
+      "year":1999,
+      "runtime":86,
+      "rating":8.0,
+      "description":"A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+      "director":"Brad Bird",
+      "actors":[
+         "Eli Marienthal",
+         "Harry Connick Jr."
+      ],
+      "url":"https://www.imdb.com/title/tt0129167/",
+      "genres":[
+         "Animation",
+         "Action",
+         "Adventure"
+      ]
+   },
+   {
+      "id":246,
+      "title":"Černobílý svět",
+      "year":2011,
+      "runtime":146,
+      "rating":8.0,
+      "description":"An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and th... Read all",
+      "director":"Tate Taylor",
+      "actors":[
+         "Viola Davis",
+         "Emma Stone"
+      ],
+      "url":"https://www.imdb.com/title/tt1454029/",
+      "genres":[
+         "Drama"
+      ]
+   },
+   {
+      "id":247,
+      "title":"Aladdin",
+      "year":1992,
+      "runtime":90,
+      "rating":8.0,
+      "description":"A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+      "director":"Ron Clements",
+      "actors":[
+         "Scott Weinger",
+         "Robin Williams"
+      ],
+      "url":"https://www.imdb.com/title/tt0103639/",
+      "genres":[
+         "Animation",
+         "Adventure",
+         "Comedy"
+      ]
+   },
+   {
+      "id":248,
+      "title":"Dersu Uzala",
+      "year":1975,
+      "runtime":142,
+      "rating":8.0,
+      "description":"The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.",
+      "director":"Akira Kurosawa",
+      "actors":[
+         "Maksim Munzuk",
+         "Yuriy Solomin"
+      ],
+      "url":"https://www.imdb.com/title/tt0071411/",
+      "genres":[
+         "Adventure",
+         "Biography",
+         "Drama"
+      ]
+   },
+   {
+      "id":249,
+      "title":"Gándhí",
+      "year":1982,
+      "runtime":191,
+      "rating":8.0,
+      "description":"The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+      "director":"Richard Attenborough",
+      "actors":[
+         "Ben Kingsley",
+         "John Gielgud"
+      ],
+      "url":"https://www.imdb.com/title/tt0083987/",
+      "genres":[
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "id":250,
+      "title":"Dances with Wolves",
+      "year":1990,
+      "runtime":181,
+      "rating":8.0,
+      "description":"Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.",
+      "director":"Kevin Costner",
+      "actors":[
+         "Kevin Costner",
+         "Mary McDonnell"
+      ],
+      "url":"https://www.imdb.com/title/tt0099348/",
+      "genres":[
+         "Adventure",
+         "Drama",
+         "Western"
+      ]
+   }
+]
