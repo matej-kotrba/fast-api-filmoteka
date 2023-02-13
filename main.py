@@ -82,9 +82,13 @@ async def startup_setup():
     print("init na zacatku")
 
 
-@app.get("/movies", response_model=list[MovieRecord], description="Vrátí seznam filmů")
-async def get_movies() -> list[MovieRecord]:
-    return list(db.get_all())
+@app.get("/movies", response_model=dict[int, MovieRecord], description="Vrátí seznam filmů")
+async def get_movies():
+    list_database = list(db.get_all())
+    directory_list = {}
+    for i in range(len(list_database)):
+        directory_list[i] = list_database[i]
+    return directory_list
 
 @app.post("/movies", response_model=MovieRecord, description="Přidáme film do DB")
 async def post_movies(id_movie, movie: MovieRecord):
