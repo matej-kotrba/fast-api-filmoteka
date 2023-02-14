@@ -1,9 +1,41 @@
+import asyncio
+import signal
+import time
+
 import orjson
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import PlainTextResponse
 from pydantic import BaseModel, Field
+from starlette.requests import Request
+from prometheus_client import Counter, Gauge, Histogram, generate_latest
 
 from datetime import timedelta, datetime
+
+
+class HttpServerMetrics:
+    http_server_requests_total = Counter(
+        'http_server_requests_total',
+        'Pocitadlo requestu',
+         ['method', 'path', 'status_code']
+    )
+    http_server_request_duration_seconds = Histogram(
+        'http_server_request_duration_seconds',
+        'Jak dlouho to trva',
+        ['method', 'path'],
+        buckets=(0.001, 0.01, 0.05, 0.1, 0.5, 1, 2)
+    )
+    http_server_concurrent_requests = Gauge(
+        'http_server_concurrent_requests',
+        'Kolik soucasne requestu na serveru'
+    )
+
+
+class Metrics(HttpServerMetrics):
+    pass
+
+
+metrics = Metrics()
 
 
 class Problem(BaseModel):
@@ -66,6 +98,8 @@ db.load_from_filename('movies.json')
 
 app = FastAPI(title="Filmoteka API", version="0.1", docs_url="/docs")
 
+app.is_shutdown = False
+
 origins = ["*"]
 
 app.add_middleware(
@@ -77,9 +111,37 @@ app.add_middleware(
 )
 
 
+@app.get("/__healthcheck")
+async def get_healthcheck():
+    return "1" if not app.is_shutdown else "0"
+
+# async def graceful_shutdown():
+#     app.is_shutdown = True
+#     print("Jdu do shutdownu")
+#     second = 10
+#     for i in range(second):
+#         print(f"{i}")
+#         await asyncio.sleep(1)
+#     await asyncio.sleep(10)
+#     print("Vypinam ...")
+#     exit(0)
+
+# def handler_shutdown(*args):
+#     loop = asyncio.get_event_loop()
+#     asyncio.run_coroutine_threadsafe(graceful_shutdown(), loop)
+
+
+@app.get("/metrics", response_class=PlainTextResponse)
+async def get_metrics():
+    return generate_latest()
+
+
 @app.on_event('startup')
 async def startup_setup():
     print("init na zacatku")
+    # loop = asyncio.get_event_loop()
+    # loop.add_signal_handler(signal.SIGTERM, handler_shutdown, loop)
+    # loop.add_signal_handler(signal.SIGINT, handler_shutdown, loop)
 
 
 @app.get("/movies", response_model=dict[int, MovieRecord], description="Vrátí seznam filmů")
@@ -89,6 +151,7 @@ async def get_movies():
     for i in range(len(list_database)):
         directory_list[i] = list_database[i]
     return directory_list
+    # return list(db.get_all())
 
 @app.post("/movies", response_model=MovieRecord, description="Přidáme film do DB")
 async def post_movies(id_movie, movie: MovieRecord):
@@ -104,3 +167,18 @@ async def delete_movie(id_movie: int):
         raise HTTPException(404, "Film neexistuje")
     db.delete(id_movie)
     return {'status': 'smazano'}
+
+
+@app.middleware("http")
+async def metrics_middleware(request: Request, call_next):
+    start = time.time()
+    metrics.http_server_concurrent_requests.inc()
+    # kod pred zpracovanim
+    response = await call_next(request)
+    # kod po zpracovani
+    duration = time.time() - start
+    metrics.http_server_requests_total.labels(request.method, request.url.path, response.status_code).inc()
+    metrics.http_server_request_duration_seconds.labels(request.method, request.url.path).observe(duration)
+    metrics.http_server_concurrent_requests.dec()
+
+    return response
